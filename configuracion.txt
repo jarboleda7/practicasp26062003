@@ -1,2 +1,5 @@
 https://github.com/jarboleda7/practicasp26062003.git
 server 5
+url:localhost
+localport:56
+asdfkksafk
